@@ -1,0 +1,3 @@
+In Python you can write programs that ask users for input and then use that input by storing it in a variable, a list, or a dictionary.
+You can also write Python programs that perform analysis of text files. Python programs can tell you the word count of a text file or the most common word in a text file.
+Apparently, Python programs can be used to create data visualizations, too, though we have not gotten that far in our course yet.
